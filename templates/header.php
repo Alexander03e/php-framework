@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html lang="ru">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>ой блог</title>
+
+    <link rel="stylesheet" href="/Project-1/templates/style/style.css">
+    
+
+</head>
+
+<body>
+
+ 
+
+<table class="layout">
+
+    <tr>
+
+        <td colspan="2" class="header">
+
+            Мой блог
+
+        </td>
+
+    </tr>
+
+    <tr>
+
+        <td>
